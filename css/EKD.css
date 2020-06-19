@@ -1,0 +1,181 @@
+p{
+	font-family: avenir, helvetic, arial, sans-serif;
+	color: white;
+}
+
+body{
+	margin: 0;
+	font-family: Avenir, Helvetica, Arial, sans-serif;
+	font-size: 15px;
+}
+
+header{
+	
+	padding: 5px 10px;
+
+}
+div.one{
+	background-color: white;
+	padding-top: 0;
+
+}
+div.onea{
+	float: left;
+
+}
+div.oneb{
+	background-color: #B2D235;
+	margin-left: 80px;
+	height: 40px;
+}
+
+div.two{
+	height: 25px;
+	background-color: #333E48;
+	margin-top: 5px;
+	margin-left: 80px;
+}
+div.twoa{
+	float: left;
+	width: 16%;
+	padding-left: 21%;
+	text-align: center;
+	padding-top: 2.5px;
+}
+div.twoai{
+	float: left;
+	width: 16%;
+	padding-left: 19%;
+	text-align: center;
+	padding-top: 2.5px;
+}
+
+div.three{
+	padding-top: 30px;
+	margin-bottom: 23px;
+
+}
+#cf {
+  position:relative;
+  height:530px;
+  width:100%;
+  margin:0 auto;
+}
+
+#cf img {
+  position:absolute;
+  left:0;
+  -webkit-transition: opacity 1s ease-in-out;
+  -moz-transition: opacity 1s ease-in-out;
+  -o-transition: opacity 1s ease-in-out;
+  transition: opacity 1s ease-in-out;
+}
+
+#cf img.top:hover {
+  opacity:0;
+}
+div.threea{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+	padding-left: 30px;
+	background-color: #333E48;
+
+}
+div.threeb{
+
+}
+div.threec{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+	padding-left: 30px;
+	background-color: #333E48;
+}
+
+h1{
+
+
+}
+
+
+header h1{
+	color: white;
+	font-size: 32px;
+	text-transform: uppercase;
+	margin: 0;
+	text-align: left;
+	padding-left: 36%;
+
+
+
+
+	
+
+}
+
+header img{
+	width: 70px;
+	float: left;
+}
+
+header img.big{
+	width: 230px;
+	float: left;
+}
+
+main{
+	
+
+}
+/*for the margin, the first value is top and bottom, then left and right. auto center aligns it*/
+
+main img{
+	width: 100%;
+}
+
+h2{
+	font-size: 30px;
+	color: #C3C5C9;
+	font-family: avenir, helvetica, arial, sans-serif;
+}
+
+a{
+	color: white;
+	text-decoration: none;
+	text-transform: uppercase;
+
+}
+/*make the link change color when you hover over it*/
+a:hover{
+	color: #B2D235;
+}
+#selected a{
+	color: #B2D235;
+}
+#i{
+	margin-left: 240px;
+	padding-left:7%;
+}
+
+footer{
+	background-color: #006657;
+	text-align: center;
+	color: white;
+	padding: 20px 100px;
+}
+
+p.caption{
+	color: rebeccapurple;
+	font-size: 20px;
+	font-style: italic;
+	margin-top: 0;
+}
+
+
+
+footer p{
+	color: #99C2BC;
+}
+
+
